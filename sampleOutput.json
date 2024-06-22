@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+      {
+        "source": {
+          "id": "abc-news",
+          "name": "ABC News"
+        },
+        "author": "Amanda M. Morris, Kevin Shalvey",
+        "title": "2 dead in shooting at Juneteenth celebration in Texas, police say - ABC News",
+        "description": "The shooting began Saturday night in Round Rock, Texas, police said.",
+        "url": "https://abcnews.go.com/US/round-rock-shooting-texas-six-injured-police-say/story?id=111162500",
+        "urlToImage": "https://i.abcnewsfe.com/a/bb40871a-717c-466c-b28d-7aacfa6c0973/round-rock-police-cheif_1718526117062_hpMain_16x9.jpg?w=1600",
+        "publishedAt": "2024-06-16T07:01:20Z",
+        "content": "Two people were shot and killed during a Juneteenth celebration on Saturday at a park in Round Rock, Texas, police said.\r\nA fight broke out between two groups at the Old Settlers Park at about 11 p.m… [+830 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Ashley Hume",
+        "title": "Taylor Swift's ex Joe Alwyn breaks silence on split, says relationship was 'long, loving, fully committed' - Fox News",
+        "description": "Taylor Swift's ex-boyfriend Joe Alwyn is speaking out for the first time about the end of their relationship. Alwyn and Swift dated for six years before parting ways in April 2023.",
+        "url": "https://www.foxnews.com/entertainment/taylor-swifts-ex-joe-alwyn-breaks-silence-split-says-relationship-long-loving-fully-committed",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/joe_taylor.jpg",
+        "publishedAt": "2024-06-16T06:42:00Z",
+        "content": "Taylor Swift's ex-boyfriend Joe Alwyn has broken his silence about their split more than a year after the two parted ways.\r\nThe 33-year-old actor and the 34-year-old pop star, who kept their romance … [+3509 chars]"
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": "Aaron Navarro",
+        "title": "Biden raises over $28 million at Hollywood fundraiser featuring Obama, campaign says - CBS News",
+        "description": "Jimmy Kimmel hosted a conversation with President Biden and former President Barack Obama.",
+        "url": "https://www.cbsnews.com/news/biden-campaign-trail-los-angeles-hollywood-fundraiser/",
+        "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2024/06/16/577d9290-3ee5-45ae-a705-506b2eeae255/thumbnail/1200x630/862be7cffccf2ceb33b14cadba830a35/gettyimages-2157156560.jpg?v=5842509bb796a146f9b20d3e8b03dac6",
+        "publishedAt": "2024-06-16T04:35:09Z",
+        "content": "Within 24 hours, President Joe Biden went from the G7 Summit to George Clooney. Mr. Biden left Italy late Friday night and arrived in Los Angeles early Saturday morning ahead of a star-studded evenin… [+4676 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "JOSEF FEDERMAN, WAFAA SHURAFA, JULIA FRANKEL",
+        "title": "Israeli military announces 'tactical pause' in attempt to increase flow of aid into hard-hit Gaza - The Associated Press",
+        "description": "The Israeli military has announced a “tactical pause” in its offensive in the southern Gaza Strip to allow the deliveries of increased quantities of humanitarian aid. The army said Sunday the pause would begin at 0500 GMT and remain in effect until 1600 GMT. …",
+        "url": "https://apnews.com/article/israel-palestinians-gaza-hamas-war-un-humanitarian-8c111f2dcf783f8671e6dd6f19547b17",
+        "urlToImage": "https://dims.apnews.com/dims4/default/4f6c467/2147483647/strip/true/crop/4923x2769+0+256/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fe8%2Fcb%2F2cfa2704a87a826abf6e02698892%2Fbdbab80a96e641d689b818c0b242583f",
+        "publishedAt": "2024-06-16T04:18:00Z",
+        "content": "JERUSALEM (AP) Israels military announced on Sunday that it would pause fighting throughout daytime hours along a route in southern Gaza to free up a backlog of humanitarian aid deliveries destined f… [+4458 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Ashley R. Williams, Mary Gilbert",
+        "title": "Extreme heat to scorch central, southern US on Father’s Day - CNN",
+        "description": "The year’s first significant heat wave is expected to roast a significant portion of the central and southern United States on Father’s Day Sunday with potentially record-breaking high temperatures, four days away from summer’s official start.",
+        "url": "https://www.cnn.com/2024/06/16/weather/us-fathers-day-heat-wave-climate-sunday/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/gettyimages-2156276430-20240606141604447.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-06-16T04:15:00Z",
+        "content": "The years first significant heat wave is expected to roast a significant portion of the central and southern United States on Fathers Day Sunday with potentially record-breaking high temperatures, fo… [+3847 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "The Detroit News"
+        },
+        "author": "Marnie Muñoz, Chad Livengood",
+        "title": "Rochester Hills splash pad shooter found dead, Oakland Co. sheriff says - Detroit News",
+        "description": "The shooting occurred Saturday around 5 p.m. at the Brooklands Plaza Splash Pad in Rochester Hills, according to the Rochester Police Department.",
+        "url": "https://www.detroitnews.com/story/news/local/oakland-county/2024/06/15/rochester-hills-brooklands-splash-pad-active-shooter-multiple-people-injured-oakland-county-michigan/74112936007/",
+        "urlToImage": "https://www.detroitnews.com/gcdn/authoring/authoring-images/2024/06/16/PDTN/74115558007-0615-kk-me-rochester-hills-shooting-presser-01.jpg?crop=5848,3291,x0,y300&width=3200&height=1801&format=pjpg&auto=webp",
+        "publishedAt": "2024-06-16T03:05:25Z",
+        "content": "Rochester Hills Nine people were shot at a splash pad in Rochester Hills around 5:11 p.m. Saturday after a \"random\" gunman got out of a vehicle and unloaded 28 gunshots from a handgun at the streetsi… [+9636 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "MLB.com"
+        },
+        "author": "MLB.com",
+        "title": "Yoshinobu Yamamoto leaves start early with triceps tightness - MLB.com",
+        "description": null,
+        "url": "https://www.mlb.com/news/yoshinobu-yamamoto-triceps-injury",
+        "urlToImage": null,
+        "publishedAt": "2024-06-16T01:54:24Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Jack Bantock",
+        "title": "US Open: Box office Bryson DeChambeau receives mid-round physiotherapy in woods – then muscles into lead - CNN",
+        "description": "Bryson DeChambeau lay sprawled on his back, gazing up at the towering pine trees as a physiotherapist worked him over. Then he got up, dusted himself down, and wrenched control of the US Open.",
+        "url": "https://www.cnn.com/2024/06/15/sport/bryson-dechambeau-us-open-round-three-spt-intl/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap24167767460748.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-06-16T01:53:00Z",
+        "content": "Bryson DeChambeau lay sprawled on his back, gazing up at the towering pine trees as a physiotherapist worked him over. Then he got up, dusted himself down, and wrenched control of the US Open.\r\nNorth… [+6793 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Heat.com"
+        },
+        "author": "John Schuhmann",
+        "title": "NBA Finals Film Study: Mavericks stand up defensively in Game 4 - NBA.com",
+        "description": "With their season on the line, the Dallas Mavericks finally play championship-level defense in Game 4 of the NBA Finals.",
+        "url": "https://www.nba.com/news/2024-nba-finals-film-study-game-4",
+        "urlToImage": null,
+        "publishedAt": "2024-06-16T01:40:22Z",
+        "content": "In Game 4, Jayson Tatum and the Celtics shot 13-for-33 (39.3%) in the paint, easily their worst mark of the season.\r\n Download the NBA App\r\nThe Dallas Mavericks might have the most talented offensive… [+7651 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NBCSports.com"
+        },
+        "author": "Golf Channel Staff",
+        "title": "U.S. Open 2024 tee times: Final round with DeChambeau, McIlroy, Cantlay and field - NBC Sports",
+        "description": "Tee times and pairings for the final round of the 124th U.S. Open at Pinehurst No. 2.",
+        "url": "https://www.nbcsports.com/golf/news/u-s-open-2024-tee-times-final-round-with-dechambeau-mcilroy-cantlay-and-field",
+        "urlToImage": "https://nbcsports.brightspotcdn.com/dims4/default/1b7b339/2147483647/strip/true/crop/5700x3206+0+297/resize/1440x810!/quality/90/?url=https%3A%2F%2Fnbc-sports-production-nbc-sports.s3.us-east-1.amazonaws.com%2Fbrightspot%2F50%2F95%2F7c3013ee443b8fd5b9fea1af551f%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F2157753721",
+        "publishedAt": "2024-06-16T00:53:27Z",
+        "content": "Bryson DeChambeau takes a three-shot lead into the final round of the 124th U.S. Open, with Rory McIlroy, Patrick Cantlay and Matthieu Pavon tied for second.\r\nHeres a look at tee times and pairings f… [+1534 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Earth.com"
+        },
+        "author": null,
+        "title": "Nova explosion of nearby star will soon light up Earth's skies - Earth.com",
+        "description": "T Coronae Borealis is expected to explode as early as September 2024, offering a spectacular sight for stargazers worldwide.",
+        "url": "https://www.earth.com/news/t-coronae-borealis-nova-explosion-nearby-star-light-up-earths-skies/",
+        "urlToImage": "https://cff2.earth.com/uploads/2024/06/15183551/nova-explosion_T-Coronae-Borealis_light-up-earth-skies_1m.jpg",
+        "publishedAt": "2024-06-16T00:49:55Z",
+        "content": "The vast expanse of the night sky, a canvas dotted with countless stars, is about to unveil a rare and spectacular phenomenon. Brace yourself for a stellar light show as T Coronae Borealis, a seeming… [+4831 chars]"
+      },
+      {
+        "source": {
+          "id": "fox-news",
+          "name": "Fox News"
+        },
+        "author": "Bradford Betz",
+        "title": "Detroit pastor thanks Trump for visiting the 'hood' as Biden, Obama who 'never came' attend LA fundraiser - Fox News",
+        "description": "Detroit Pastor Lorenzo Sewell told former President Trump Saturday he was \"humbled\" by his visit to his church, saying Biden and Obama never visited \"the hood.\"",
+        "url": "https://www.foxnews.com/politics/detroit-pastor-thanks-trump-visiting-the-hood-biden-obama-who-never-came-attend-la-fundraiser",
+        "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2024/06/Trump-Detroit-Church.png",
+        "publishedAt": "2024-06-16T00:30:09Z",
+        "content": "Former President Trump attended a roundtable discussion at a church in Detroit on Saturday afternoon in an effort to reach out to Black voters.\r\nDuring the discussion, 180 Church Pastor Lorenzo Sewel… [+1747 chars]"
+      },
+      {
+        "source": {
+          "id": "fortune",
+          "name": "Fortune"
+        },
+        "author": "Akemi Terukina, Bloomberg",
+        "title": "A rare flesh-eating bacteria with a 'terrifying' mortality rate that can kill people in 48 hours is spreading in Japan - Fortune",
+        "description": "“As soon as a patient notices swelling in foot in the morning, it can expand to the knee by noon, and they can die within 48 hours.”",
+        "url": "https://fortune.com/2024/06/15/flesh-eating-bacteria-terrifying-mortality-rate-group-a-streptococcus-shock-syndrome-japan/",
+        "urlToImage": "https://fortune.com/img-assets/wp-content/uploads/2024/06/GettyImages-1301753164-e1718491179790.jpg?resize=1200,600",
+        "publishedAt": "2024-06-15T22:51:00Z",
+        "content": "A disease caused by a rare flesh-eating bacteria that can kill people within 48 hours is spreading in Japan after the country relaxed Covid-era restrictions.Cases of streptococcal toxic shock syndrom… [+1479 chars]"
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": "Reuters",
+        "title": "Sweden and Iran exchange prisoners in breakthrough deal - Reuters",
+        "description": null,
+        "url": "https://www.reuters.com/world/sweden-iran-carry-out-prisoner-swap-officials-say-2024-06-15/",
+        "urlToImage": null,
+        "publishedAt": "2024-06-15T22:43:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "the-verge",
+          "name": "The Verge"
+        },
+        "author": "Wes Davis",
+        "title": "NASA says Voyager 1 is fully back online months after it stopped making sense - The Verge",
+        "description": "For the first time since it started sending nonsensical data in November, NASA says Voyager 1 is once again sending back information from all four scientific instruments.",
+        "url": "https://www.theverge.com/2024/6/15/24179265/voyager-1-functioning-again-nasa-deep-space",
+        "urlToImage": "https://cdn.vox-cdn.com/thumbor/rx7FQ7xi7DOf5PVMtTKZlnVE6ME=/0x0:1820x1024/1200x628/filters:focal(910x512:911x513)/cdn.vox-cdn.com/uploads/chorus_asset/file/25492970/Voyager_1.jpg",
+        "publishedAt": "2024-06-15T22:25:38Z",
+        "content": "NASA says Voyager 1 is fully back online months after it stopped making sense\r\nNASA says Voyager 1 is fully back online months after it stopped making sense\r\n / The deep-space probe is now sending ba… [+1579 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Mary Kay Mallonee, Avery Lotz",
+        "title": "US forces destroy Houthi radars in Yemen that allowed Iranian-backed group to target commercial ships, CENTCOM says - CNN",
+        "description": "A civilian mariner remains missing in the Red Sea, two days after the crew of a cargo carrier struck by Houthi militants abandoned ship, US Central Command said Friday.",
+        "url": "https://www.cnn.com/2024/06/14/politics/civilian-mariner-missing-houthi-attack/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/ap21057227846300-1.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2024-06-15T22:17:00Z",
+        "content": "US forces launched successful attacks late this week on Houthi radars that helped facilitate the Iranian-backed groups ongoing assaults on ships in the Red Sea, according to US Central Command.\r\nCENT… [+2862 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CBS Sports"
+        },
+        "author": "Shakiel Mahjouri",
+        "title": "2024 WWE Clash at the Castle results, recap, grades: CM Punk screws Drew McIntyre out of title in Scotland - CBS Sports",
+        "description": "Plus, Cody Rhodes and AJ Styles brawled in a phenomenal 'I Quit' match",
+        "url": "https://www.cbssports.com/wwe/news/2024-wwe-clash-at-the-castle-results-recap-grades-cm-punk-screws-drew-mcintyre-out-of-title-in-scotland/live/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/06/15/98066add-e651-4d48-8bf0-6d143ef34d96/thumbnail/1200x675/ab0bc0d9e95ddadaed88fe598360fba8/wwe-clash-at-the-castle-cm-punk-drew-mcintyre-damian-priest-pro-wrestling-news-today-june-15-2024.jpg",
+        "publishedAt": "2024-06-15T21:49:05Z",
+        "content": "Drew McIntyre was poised to win the world heavyweight championship in his home country of Scotland in a pay-per-view main event. McIntyre instead leaves his Clash at the Castle with another broken dr… [+10910 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Windows Central"
+        },
+        "author": "Jez Corden",
+        "title": "Watch Apple BRUTALLY roast Microsoft's spectacular Windows Recall AI failure - Windows Central",
+        "description": "Apple ramps up the snark with a jab at Microsoft's recent PR disaster over Windows Recall.",
+        "url": "https://www.windowscentral.com/software-apps/windows-11/listen-to-apples-mocking-response-to-microsofts-spectacular-windows-recall-ai-failure",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/5e5RiEchye4o7GE4kVXTb8-1200-80.png",
+        "publishedAt": "2024-06-15T18:54:20Z",
+        "content": "What you need to know\r\n\u003Cul\u003E\u003Cli\u003EMicrosoft announced its flagship AI feature, Windows Recall, at Build a few weeks ago. \u003C/li\u003E\u003Cli\u003EThe feature records everything you do on Windows 11, and lets you ask Co… [+5443 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Deadline"
+        },
+        "author": "Bruce Haring",
+        "title": "Oaks Park Ride Malfunctions, 28 People Stuck Upside Down - Deadline",
+        "description": "An Oaks Park theme park ride malfunctioned and left 28 people upside-down.",
+        "url": "http://deadline.com/2024/06/oaks-park-ride-malfunctions-1235974415/",
+        "urlToImage": "https://deadline.com/wp-content/uploads/2024/06/Oaks-Park-Logo-1277988422.jpeg?w=300",
+        "publishedAt": "2024-06-15T16:39:00Z",
+        "content": "Oaks Park amusement park outside of Portland, Oregon, had to call in emergency personnel on Friday to rescue 28 people who were stuck upside-down on a malfunctioning ride. \r\nCrews rescued 28 people F… [+943 chars]"
+      },
+      {
+        "source": {
+          "id": "business-insider",
+          "name": "Business Insider"
+        },
+        "author": "Eve Crosbie",
+        "title": "Kate Middleton put on a 'game face' for return to royal duties: body-language expert - Business Insider",
+        "description": "Body-language expert Darren Stanton said that the first glimpse of the princess set the tone for the annual royal event,",
+        "url": "https://www.businessinsider.com/kate-middleton-game-face-trooping-the-colour-body-language-expert-2024-6",
+        "urlToImage": "https://i.insider.com/666dbcf8764df161125a357d?width=1200&format=jpeg",
+        "publishedAt": "2024-06-15T16:31:00Z",
+        "content": null
+      }
+    ]
+  }
